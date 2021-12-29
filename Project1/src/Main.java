@@ -7,5 +7,6 @@ public class Main{
         gravity= 0.2683;
          
         System.out.printf( "%d * %f = %f", kg, gravity, (kg * gravity) );
+        System.out.println("¼öÁ¤");
     }
 }
